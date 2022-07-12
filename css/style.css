@@ -1,0 +1,32 @@
+.header{
+    padding: 5px;
+    text-align: center;
+    background: rgb(150, 228, 232);
+    color: black;
+    font-size: 30px;
+    font-family: Tahoma, sans-serif;
+}
+.nav-group{
+    text-align: center;
+}
+a.button{
+    background-color: transparent;
+    border-style: none;
+    padding: 5px 20px;
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 14px;
+    font-weight:bold;
+    font-family: Tahoma, sans-serif;
+
+    text-decoration: none;
+
+}
+
+a.button:visited{
+    text-decoration: none;
+    color: black;
+}
+a.button:hover{
+    color: rgb(128,128,128);
+}
