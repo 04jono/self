@@ -20,7 +20,7 @@ a.button{
     font-family: Tahoma, sans-serif;
 
     text-decoration: none;
-
+    color: black;
 }
 
 a.button:visited{
